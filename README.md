@@ -1,2 +1,2 @@
 # new-world
-this my first time in github
+this my first time on github
